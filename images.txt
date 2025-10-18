@@ -7,4 +7,7 @@
 #例子4 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 n8nio/n8n:latest
+postgres:13
+mysql:8.3.0
+cooderl/wewe-rss:latest
 
